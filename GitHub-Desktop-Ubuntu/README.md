@@ -1,5 +1,7 @@
 # GitHub Desktop for Ubuntu
 
+> _Updated 2023 10 22_
+
 This installation method is unnoficial and is provided by [berkobay](https://gist.github.com/berkorbay/6feda478a00b0432d13f1fc0a50467f1).
 
 It updates often, so search for "**Github Desktop Ubuntu**".
