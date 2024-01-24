@@ -93,3 +93,24 @@ Try this:
 sudo systemctl daemon-reload
 sudo systemctl start my_script.service
 ```
+
+## Stop the service
+If you need to stop the service run the following command
+
+```
+sudo systemctl stop my_script.service
+```
+
+## Disable the service
+If you need to permantently prevent the service to run at startup, run the following command
+
+```
+sudo systemctl disable my_script.service
+```
+
+You can check if the service has stopped with the following command.
+```
+sudo systemctl statys enable my_script.service
+```
+
+It should appear disabled. It may take a reboot.

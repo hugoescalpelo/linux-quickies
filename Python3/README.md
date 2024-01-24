@@ -15,3 +15,4 @@ If you don't have Python installed, use the following commands:
 sudo apt update
 sudo apt install python3
 ```
+
